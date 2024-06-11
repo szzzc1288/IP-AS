@@ -1,0 +1,41 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+8.210.65.1,2083,TRUE,HKG,Asia Pacific,Hong Kong,58 ms,18441 kB/s
+47.76.77.103,8443,TRUE,HKG,Asia Pacific,Hong Kong,66 ms,18198 kB/s
+8.217.221.165,2087,TRUE,HKG,Asia Pacific,Hong Kong,71 ms,17335 kB/s
+8.210.119.11,2083,TRUE,HKG,Asia Pacific,Hong Kong,67 ms,16365 kB/s
+8.218.243.95,2053,TRUE,HKG,Asia Pacific,Hong Kong,65 ms,16132 kB/s
+8.217.147.230,2083,TRUE,HKG,Asia Pacific,Hong Kong,62 ms,15872 kB/s
+8.218.142.253,2053,TRUE,HKG,Asia Pacific,Hong Kong,63 ms,15849 kB/s
+47.243.90.180,2096,TRUE,HKG,Asia Pacific,Hong Kong,74 ms,14214 kB/s
+47.76.178.146,2087,TRUE,HKG,Asia Pacific,Hong Kong,85 ms,14182 kB/s
+47.238.40.58,2053,TRUE,HKG,Asia Pacific,Hong Kong,69 ms,14100 kB/s
+8.218.243.95,2087,TRUE,HKG,Asia Pacific,Hong Kong,68 ms,13620 kB/s
+47.242.174.27,2087,TRUE,HKG,Asia Pacific,Hong Kong,63 ms,13351 kB/s
+47.243.206.150,2053,TRUE,HKG,Asia Pacific,Hong Kong,60 ms,13187 kB/s
+47.243.169.63,8443,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,13001 kB/s
+47.76.32.108,2087,TRUE,HKG,Asia Pacific,Hong Kong,59 ms,12952 kB/s
+8.218.3.12,2087,TRUE,HKG,Asia Pacific,Hong Kong,65 ms,12670 kB/s
+47.76.178.146,2053,TRUE,HKG,Asia Pacific,Hong Kong,68 ms,12628 kB/s
+47.238.40.58,2087,TRUE,HKG,Asia Pacific,Hong Kong,64 ms,12198 kB/s
+47.242.17.250,2083,TRUE,HKG,Asia Pacific,Hong Kong,67 ms,12121 kB/s
+47.243.169.63,2087,TRUE,HKG,Asia Pacific,Hong Kong,81 ms,11873 kB/s
+8.210.192.93,2053,TRUE,HKG,Asia Pacific,Hong Kong,64 ms,11566 kB/s
+8.210.21.65,2053,TRUE,HKG,Asia Pacific,Hong Kong,63 ms,11401 kB/s
+47.76.37.57,2096,TRUE,HKG,Asia Pacific,Hong Kong,113 ms,11292 kB/s
+47.76.32.108,2053,TRUE,HKG,Asia Pacific,Hong Kong,70 ms,10843 kB/s
+47.243.91.58,2053,TRUE,HKG,Asia Pacific,Hong Kong,56 ms,10832 kB/s
+47.76.77.103,2096,TRUE,HKG,Asia Pacific,Hong Kong,55 ms,10491 kB/s
+47.243.42.219,2053,TRUE,HKG,Asia Pacific,Hong Kong,70 ms,10342 kB/s
+47.242.174.27,8443,TRUE,HKG,Asia Pacific,Hong Kong,56 ms,10259 kB/s
+47.76.159.146,2087,TRUE,HKG,Asia Pacific,Hong Kong,63 ms,10207 kB/s
+8.218.3.12,2053,TRUE,HKG,Asia Pacific,Hong Kong,67 ms,10134 kB/s
+47.76.77.103,2083,TRUE,HKG,Asia Pacific,Hong Kong,61 ms,10047 kB/s
+﻿35.201.203.106,443,TRUE,TPE,Asia Pacific,Taipei,92 ms,28674 kB/s
+﻿64.110.88.46,443,TRUE,ICN,Asia Pacific,Seoul,85 ms,20784 kB/s
+150.230.47.17,443,TRUE,SJC,North America,San Jose,171 ms,10984 kB/s
+192.9.246.112,8443,TRUE,SJC,North America,San Jose,186 ms,10659 kB/s
+﻿54.249.173.119,443,TRUE,NRT,Asia Pacific,Tokyo,80 ms,18632 kB/s
+15.165.49.161,8080,TRUE,ICN,Asia Pacific,Seoul,113 ms,14290 kB/s
+13.250.131.37,443,TRUE,SIN,Asia Pacific,Singapore,96 ms,13793 kB/s
+99.83.209.185,443,TRUE,IAD,North America,Ashburn,176 ms,10628 kB/s
+
