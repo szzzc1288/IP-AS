@@ -1,0 +1,4 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+64.110.88.46,443,TRUE,ICN,Asia Pacific,Seoul,85 ms,20784 kB/s
+150.230.47.17,443,TRUE,SJC,North America,San Jose,171 ms,10984 kB/s
+192.9.246.112,8443,TRUE,SJC,North America,San Jose,186 ms,10659 kB/s
